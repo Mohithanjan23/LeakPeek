@@ -1,6 +1,6 @@
 # leakpeak
 
-A new Flutter project.
+A capstone project.
 
 ## Getting Started
 
