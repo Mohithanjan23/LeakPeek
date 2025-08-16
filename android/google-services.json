@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437191271853",
+    "project_id": "leakpeek-2bca",
+    "storage_bucket": "leakpeek-2bca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437191271853:android:311a3b0ee335d116a8ed24",
+        "android_client_info": {
+          "package_name": "com.example.leakpeek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwdKjYAbJuRFftMxtY9qcYgp7aSe06_dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
