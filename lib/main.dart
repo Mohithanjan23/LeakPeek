@@ -72,4 +72,17 @@ class MyApp extends StatelessWidget {
       },
     );
   }
+
+  void main() async {
+    WidgetsFlutterBinding.ensureInitialized();
+
+    try {
+      await Firebase.initializeApp();
+      print('Firebase initialized successfully');
+    } catch (e) {
+      print('Firebase initialization error: $e');
+    }
+
+    runApp(LeakPeekApp());
+  }
 }
